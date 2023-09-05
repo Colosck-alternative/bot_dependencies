@@ -1,0 +1,14 @@
+{
+  "name": "Nirvana",
+  "version": "1.2.14",
+  "description": "A simple Facebook Messenger Bot mod by Colosck and Heo Rừng.",
+  "main": "mirai.js",
+  "scripts": {
+    "start": "node index",
+    "login": "node login",
+    "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+  },
+  "author": "Colsck, Heo Rừng",
+  "license": "GPL-3.0",
+  "credit": "D-Jukie, Catalicz, Spermlord"
+}
